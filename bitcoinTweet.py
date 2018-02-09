@@ -22,7 +22,7 @@ gemini 			= ccxt.gemini()
 gdax  			= ccxt.gdax()
 bittrex 		= ccxt.bittrex() 
 exchanges 		= [binance,bitfinex,gemini,gdax,bittrex]
-hourlyPrice		= [9032,9323,9322,9342,9332,9325,9343,9326,9327,9322,9326,9328,9321,9323,9325,9328,9323,9343,9323,9432,9321,9330]
+hourlyPrice		= []
 
 
 
